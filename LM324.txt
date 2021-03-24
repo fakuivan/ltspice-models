@@ -1,0 +1,2 @@
+https://www.onsemi.com/support/design-resources/models?rpn=LM324
+https://www.onsemi.com/pub/Collateral/LM324%20SPICE%20MODEL%20.MOD

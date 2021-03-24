@@ -1,0 +1,3 @@
+http://ltwiki.org/index.php?title=File:TL431.asy
+http://ltwiki.org/index.php?title=File:TL431.sub
+http://ltwiki.org/index.php?title=Components_Library_and_Circuits#Voltage_Regulators

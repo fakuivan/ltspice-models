@@ -1,0 +1,1 @@
+http://www.ece.tufts.edu/~srout01/ee12-2008/pspice/Q2N3904.lib

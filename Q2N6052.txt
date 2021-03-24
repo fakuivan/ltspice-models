@@ -1,0 +1,2 @@
+http://dfs.uib.es/GTE/education/industrial/tec_analogiques/eval.lib
+http://ltwiki.org/images/3/30/TIP127.asy
